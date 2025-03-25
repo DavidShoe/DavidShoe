@@ -13,7 +13,7 @@ C++/WinRT
 Robots
 - 📫 How to reach me:
 davids@oz.net
-dashoe@microsoft.com
+dashoe @ microsoft.com (defunct as of 2023)
 
 <!---
 DavidShoe/DavidShoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
