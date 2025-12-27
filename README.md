@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DavidShoe
-I work for Microsoft, I own my own arcade Let's Play! Cafe in Monroe WA. I build things, fix things and sometimes break them also.
+I work for Rockwell, used to work for Microsoft and I own my own arcade Let's Play! Cafe in Monroe WA. I build things, fix things and sometimes break them also.
 - 👀 I’m interested in:
 Robotics
 Electronics
